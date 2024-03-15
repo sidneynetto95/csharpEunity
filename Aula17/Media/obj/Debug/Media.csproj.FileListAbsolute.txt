@@ -1,0 +1,8 @@
+D:\code\c#&unity\Aula17\Media\bin\Debug\Media.exe.config
+D:\code\c#&unity\Aula17\Media\bin\Debug\Media.exe
+D:\code\c#&unity\Aula17\Media\bin\Debug\Media.pdb
+D:\code\c#&unity\Aula17\Media\obj\Debug\Media.csproj.AssemblyReference.cache
+D:\code\c#&unity\Aula17\Media\obj\Debug\Media.csproj.SuggestedBindingRedirects.cache
+D:\code\c#&unity\Aula17\Media\obj\Debug\Media.csproj.CoreCompileInputs.cache
+D:\code\c#&unity\Aula17\Media\obj\Debug\Media.exe
+D:\code\c#&unity\Aula17\Media\obj\Debug\Media.pdb

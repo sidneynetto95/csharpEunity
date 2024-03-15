@@ -1,0 +1,8 @@
+D:\code\c#&unity\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe.config
+D:\code\c#&unity\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe
+D:\code\c#&unity\OlaMundo\OlaMundo\bin\Debug\OlaMundo.pdb
+D:\code\c#&unity\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csproj.AssemblyReference.cache
+D:\code\c#&unity\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csproj.SuggestedBindingRedirects.cache
+D:\code\c#&unity\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csproj.CoreCompileInputs.cache
+D:\code\c#&unity\OlaMundo\OlaMundo\obj\Debug\OlaMundo.exe
+D:\code\c#&unity\OlaMundo\OlaMundo\obj\Debug\OlaMundo.pdb

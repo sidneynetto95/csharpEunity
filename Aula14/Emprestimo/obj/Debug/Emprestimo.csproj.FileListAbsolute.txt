@@ -1,0 +1,8 @@
+D:\code\c#&unity\Aula14\Emprestimo\bin\Debug\Emprestimo.exe.config
+D:\code\c#&unity\Aula14\Emprestimo\bin\Debug\Emprestimo.exe
+D:\code\c#&unity\Aula14\Emprestimo\bin\Debug\Emprestimo.pdb
+D:\code\c#&unity\Aula14\Emprestimo\obj\Debug\Emprestimo.csproj.AssemblyReference.cache
+D:\code\c#&unity\Aula14\Emprestimo\obj\Debug\Emprestimo.csproj.SuggestedBindingRedirects.cache
+D:\code\c#&unity\Aula14\Emprestimo\obj\Debug\Emprestimo.csproj.CoreCompileInputs.cache
+D:\code\c#&unity\Aula14\Emprestimo\obj\Debug\Emprestimo.exe
+D:\code\c#&unity\Aula14\Emprestimo\obj\Debug\Emprestimo.pdb

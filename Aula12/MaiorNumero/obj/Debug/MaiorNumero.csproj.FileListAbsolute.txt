@@ -1,0 +1,8 @@
+D:\code\c#&unity\Aula12\MaiorNumero\bin\Debug\MaiorNumero.exe.config
+D:\code\c#&unity\Aula12\MaiorNumero\bin\Debug\MaiorNumero.exe
+D:\code\c#&unity\Aula12\MaiorNumero\bin\Debug\MaiorNumero.pdb
+D:\code\c#&unity\Aula12\MaiorNumero\obj\Debug\MaiorNumero.csproj.AssemblyReference.cache
+D:\code\c#&unity\Aula12\MaiorNumero\obj\Debug\MaiorNumero.csproj.SuggestedBindingRedirects.cache
+D:\code\c#&unity\Aula12\MaiorNumero\obj\Debug\MaiorNumero.csproj.CoreCompileInputs.cache
+D:\code\c#&unity\Aula12\MaiorNumero\obj\Debug\MaiorNumero.exe
+D:\code\c#&unity\Aula12\MaiorNumero\obj\Debug\MaiorNumero.pdb

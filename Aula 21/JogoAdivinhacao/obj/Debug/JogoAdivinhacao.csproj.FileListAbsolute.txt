@@ -1,0 +1,7 @@
+D:\code\c#&unity\Aula 21\JogoAdivinhacao\bin\Debug\JogoAdivinhacao.exe.config
+D:\code\c#&unity\Aula 21\JogoAdivinhacao\bin\Debug\JogoAdivinhacao.exe
+D:\code\c#&unity\Aula 21\JogoAdivinhacao\bin\Debug\JogoAdivinhacao.pdb
+D:\code\c#&unity\Aula 21\JogoAdivinhacao\obj\Debug\JogoAdivinhacao.csproj.AssemblyReference.cache
+D:\code\c#&unity\Aula 21\JogoAdivinhacao\obj\Debug\JogoAdivinhacao.csproj.CoreCompileInputs.cache
+D:\code\c#&unity\Aula 21\JogoAdivinhacao\obj\Debug\JogoAdivinhacao.exe
+D:\code\c#&unity\Aula 21\JogoAdivinhacao\obj\Debug\JogoAdivinhacao.pdb

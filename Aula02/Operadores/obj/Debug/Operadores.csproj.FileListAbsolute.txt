@@ -1,0 +1,8 @@
+D:\code\c#&unity\Aula02\Operadores\bin\Debug\Operadores.exe.config
+D:\code\c#&unity\Aula02\Operadores\bin\Debug\Operadores.exe
+D:\code\c#&unity\Aula02\Operadores\bin\Debug\Operadores.pdb
+D:\code\c#&unity\Aula02\Operadores\obj\Debug\Operadores.csproj.AssemblyReference.cache
+D:\code\c#&unity\Aula02\Operadores\obj\Debug\Operadores.csproj.SuggestedBindingRedirects.cache
+D:\code\c#&unity\Aula02\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+D:\code\c#&unity\Aula02\Operadores\obj\Debug\Operadores.exe
+D:\code\c#&unity\Aula02\Operadores\obj\Debug\Operadores.pdb

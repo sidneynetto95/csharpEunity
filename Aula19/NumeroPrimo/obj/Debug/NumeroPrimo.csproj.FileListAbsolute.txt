@@ -1,0 +1,7 @@
+D:\code\c#&unity\Aula19\NumeroPrimo\bin\Debug\NumeroPrimo.exe.config
+D:\code\c#&unity\Aula19\NumeroPrimo\bin\Debug\NumeroPrimo.exe
+D:\code\c#&unity\Aula19\NumeroPrimo\bin\Debug\NumeroPrimo.pdb
+D:\code\c#&unity\Aula19\NumeroPrimo\obj\Debug\NumeroPrimo.csproj.AssemblyReference.cache
+D:\code\c#&unity\Aula19\NumeroPrimo\obj\Debug\NumeroPrimo.csproj.CoreCompileInputs.cache
+D:\code\c#&unity\Aula19\NumeroPrimo\obj\Debug\NumeroPrimo.exe
+D:\code\c#&unity\Aula19\NumeroPrimo\obj\Debug\NumeroPrimo.pdb

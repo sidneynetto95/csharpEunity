@@ -1,0 +1,8 @@
+D:\code\c#&unity\Aula15\Eleitor\bin\Debug\Eleitor.exe.config
+D:\code\c#&unity\Aula15\Eleitor\bin\Debug\Eleitor.exe
+D:\code\c#&unity\Aula15\Eleitor\bin\Debug\Eleitor.pdb
+D:\code\c#&unity\Aula15\Eleitor\obj\Debug\Eleitor.csproj.AssemblyReference.cache
+D:\code\c#&unity\Aula15\Eleitor\obj\Debug\Eleitor.csproj.SuggestedBindingRedirects.cache
+D:\code\c#&unity\Aula15\Eleitor\obj\Debug\Eleitor.csproj.CoreCompileInputs.cache
+D:\code\c#&unity\Aula15\Eleitor\obj\Debug\Eleitor.exe
+D:\code\c#&unity\Aula15\Eleitor\obj\Debug\Eleitor.pdb

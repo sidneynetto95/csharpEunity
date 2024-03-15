@@ -1,0 +1,8 @@
+D:\code\c#&unity\Aula09\CalculoDaIdade\bin\Debug\CalculoDaIdade.exe.config
+D:\code\c#&unity\Aula09\CalculoDaIdade\bin\Debug\CalculoDaIdade.exe
+D:\code\c#&unity\Aula09\CalculoDaIdade\bin\Debug\CalculoDaIdade.pdb
+D:\code\c#&unity\Aula09\CalculoDaIdade\obj\Debug\CalculoDaIdade.csproj.AssemblyReference.cache
+D:\code\c#&unity\Aula09\CalculoDaIdade\obj\Debug\CalculoDaIdade.csproj.SuggestedBindingRedirects.cache
+D:\code\c#&unity\Aula09\CalculoDaIdade\obj\Debug\CalculoDaIdade.csproj.CoreCompileInputs.cache
+D:\code\c#&unity\Aula09\CalculoDaIdade\obj\Debug\CalculoDaIdade.exe
+D:\code\c#&unity\Aula09\CalculoDaIdade\obj\Debug\CalculoDaIdade.pdb

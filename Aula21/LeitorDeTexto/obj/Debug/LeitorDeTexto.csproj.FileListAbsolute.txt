@@ -1,0 +1,14 @@
+D:\code\c#&unity\Aula21\LeitorDeTexto\bin\Debug\LeitorDeTexto.exe.config
+D:\code\c#&unity\Aula21\LeitorDeTexto\bin\Debug\LeitorDeTexto.exe
+D:\code\c#&unity\Aula21\LeitorDeTexto\bin\Debug\LeitorDeTexto.pdb
+D:\code\c#&unity\Aula21\LeitorDeTexto\obj\Debug\LeitorDeTexto.csproj.AssemblyReference.cache
+D:\code\c#&unity\Aula21\LeitorDeTexto\obj\Debug\LeitorDeTexto.csproj.CoreCompileInputs.cache
+D:\code\c#&unity\Aula21\LeitorDeTexto\obj\Debug\LeitorDeTexto.exe
+D:\code\c#&unity\Aula21\LeitorDeTexto\obj\Debug\LeitorDeTexto.pdb
+D:\code\csharpEunity\Aula21\LeitorDeTexto\bin\Debug\LeitorDeTexto.exe.config
+D:\code\csharpEunity\Aula21\LeitorDeTexto\bin\Debug\LeitorDeTexto.exe
+D:\code\csharpEunity\Aula21\LeitorDeTexto\bin\Debug\LeitorDeTexto.pdb
+D:\code\csharpEunity\Aula21\LeitorDeTexto\obj\Debug\LeitorDeTexto.csproj.AssemblyReference.cache
+D:\code\csharpEunity\Aula21\LeitorDeTexto\obj\Debug\LeitorDeTexto.csproj.CoreCompileInputs.cache
+D:\code\csharpEunity\Aula21\LeitorDeTexto\obj\Debug\LeitorDeTexto.exe
+D:\code\csharpEunity\Aula21\LeitorDeTexto\obj\Debug\LeitorDeTexto.pdb

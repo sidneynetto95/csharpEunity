@@ -1,0 +1,8 @@
+D:\code\c#&unity\Aula16\Tabuada\bin\Debug\Tabuada.exe.config
+D:\code\c#&unity\Aula16\Tabuada\bin\Debug\Tabuada.exe
+D:\code\c#&unity\Aula16\Tabuada\bin\Debug\Tabuada.pdb
+D:\code\c#&unity\Aula16\Tabuada\obj\Debug\Tabuada.csproj.AssemblyReference.cache
+D:\code\c#&unity\Aula16\Tabuada\obj\Debug\Tabuada.csproj.SuggestedBindingRedirects.cache
+D:\code\c#&unity\Aula16\Tabuada\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+D:\code\c#&unity\Aula16\Tabuada\obj\Debug\Tabuada.exe
+D:\code\c#&unity\Aula16\Tabuada\obj\Debug\Tabuada.pdb

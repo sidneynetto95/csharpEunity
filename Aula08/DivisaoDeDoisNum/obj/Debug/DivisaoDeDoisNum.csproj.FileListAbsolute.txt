@@ -1,0 +1,8 @@
+D:\code\c#&unity\Aula08\DivisaoDeDoisNum\bin\Debug\DivisaoDeDoisNum.exe.config
+D:\code\c#&unity\Aula08\DivisaoDeDoisNum\bin\Debug\DivisaoDeDoisNum.exe
+D:\code\c#&unity\Aula08\DivisaoDeDoisNum\bin\Debug\DivisaoDeDoisNum.pdb
+D:\code\c#&unity\Aula08\DivisaoDeDoisNum\obj\Debug\DivisaoDeDoisNum.csproj.AssemblyReference.cache
+D:\code\c#&unity\Aula08\DivisaoDeDoisNum\obj\Debug\DivisaoDeDoisNum.csproj.SuggestedBindingRedirects.cache
+D:\code\c#&unity\Aula08\DivisaoDeDoisNum\obj\Debug\DivisaoDeDoisNum.csproj.CoreCompileInputs.cache
+D:\code\c#&unity\Aula08\DivisaoDeDoisNum\obj\Debug\DivisaoDeDoisNum.exe
+D:\code\c#&unity\Aula08\DivisaoDeDoisNum\obj\Debug\DivisaoDeDoisNum.pdb
